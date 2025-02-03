@@ -38,13 +38,13 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 ## 🎓 Education
 
 ### Bachelor of Science in Mathematics major in Computer Science
-*Bulacan State University* | June 2015 – December 2024
+*Bulacan State University* | December 2024
 
 ### Full-stack Development (MERN Stack)
-*Zuitt Coding Bootcamp* | January 2023 – April 2023
+*Zuitt Coding Bootcamp* | April 2023
 
 ## 🏆 Certifications
-- Civil Service Eligibility (Professional) - October 18, 2024
+- Civil Service Eligibility (Professional) - October 15, 2024
 - Google Ads Search - November 2022
 - Google Ads Display - November 2022
 
