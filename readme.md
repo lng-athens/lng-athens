@@ -26,7 +26,7 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 ## 💼 Experience
 
 ### Philteq Enterprise Incorporated
-*April 2025 – Present*
+*Web Developer* | April 2025 – Present
 - Maintained and optimized corporate and brand websites with a focus on SEO, content quality, and clean code structure.
 - Migrated company websites to WordPress to improve scalability, content management, and performance.
 - Utilized tools such as Google Analytics and PageSpeed Insights to monitor and enhance site performance.
@@ -37,7 +37,7 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 - Designed intuitive and user-friendly web UI/UX interfaces using Figma.
 
 ### Pinoy InfoTech
-*Tech Support/Graphics Designer (September 2018 – June 2019)*
+*Tech Support, Graphics Designer* | September 2018 – June 2019
 - Provided technical support to clients and resolved issues efficiently.
 - Developed graphics for marketing purposes and assisted in website maintenance.
 
