@@ -7,18 +7,18 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 ## 🚀 Skills
 
 ### Programming Languages & Frameworks
-- **Front-end:** HTML5, CSS3, SASS, Bootstrap 5, JavaScript, React
+- **Front-end:** HTML5, CSS3, SASS, Bootstrap 5, JavaScript, React, Laravel
 - **Back-end:** Node.js, Express.js, RESTful API
 
 ### Database Management
-- MongoDB, MySQL
+- MongoDB, MySQL, PostgreSQL
 
 ### Tools & Technologies
-- Postman, Robo 3T, MongoDB Compass
+- Postman, Robo 3T, MongoDB Compass, PG Admin 4
 - Git, GitHub, GitLab
 
-### Graphic Design
-- Adobe Photoshop, Adobe Illustrator, Canva
+### Graphic Design & UI/UX Design
+- Adobe Photoshop, Adobe Illustrator, Canva, Adobe XD, Figma
 
 ### Productivity Tools
 - Microsoft Office Suite (Excel, PowerPoint, Word, Publisher)
