@@ -50,9 +50,10 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 *Zuitt Coding Bootcamp* | April 2023
 
 ## 🏆 Certifications
-- Civil Service Eligibility (Professional) - October 15, 2024
-- Google Ads Search - November 2022
-- Google Ads Display - November 2022
+- **TP-Link Network Associate** (Enterprise Routing and Switching) - *May 2025 - May 2028*
+- **Civil Service Eligibility** (Professional) - October 15, 2024
+- **Google Ads Search** - November 2022
+- **Google Ads Display** - November 2022
 
 ## 🌟 Achievements
 - 3rd Place in Programming Competition, BulSU SciTech Week (2018)
