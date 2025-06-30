@@ -25,10 +25,16 @@ I am a passionate Bachelor of Science in Mathematics majoring in Computer Scienc
 
 ## 💼 Experience
 
-### Freelance Graphic Designer/IT Specialist
-*January 2015 – Present*
-- Designed and developed websites for various clients, focusing on user experience and responsive design.
-- Created promotional materials and graphics for social media campaigns.
+### Philteq Enterprise Incorporated
+*April 2025 – Present*
+- Maintained and optimized corporate and brand websites with a focus on SEO, content quality, and clean code structure.
+- Migrated company websites to WordPress to improve scalability, content management, and performance.
+- Utilized tools such as Google Analytics and PageSpeed Insights to monitor and enhance site performance.
+- Managed web hosting, domain updates, and vendor contracts.
+- Collaborated with the Digital Marketing team to curate and publish content for social media platforms, particularly Facebook.
+- Conducted market research and competitor analysis to support development strategies.
+- Created marketing assets using Adobe Photoshop and Illustrator.
+- Designed intuitive and user-friendly web UI/UX interfaces using Figma.
 
 ### Pinoy InfoTech
 *Tech Support/Graphics Designer (September 2018 – June 2019)*
